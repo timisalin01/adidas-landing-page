@@ -1,4 +1,5 @@
 # Adidas Landinding Page Website build with Tailwind CSS 
+![image](https://github.com/timisalin01/adidas-landing-page/assets/43674869/81931daf-4b03-489b-b6ad-af39c3dae9e7)
 
 ## Summary
 
